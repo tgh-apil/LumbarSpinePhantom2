@@ -9,4 +9,4 @@ Segmented STL FusedLSpine-Dec0.75-Sm15-trimmed.stl
 Modelling and enclosure created in openSCAD (FLOSS): http://www.openscad.org
 
 See .scad files in the repository
-Final printable STLs exported from openscad: "L-Spine 3-level.stl" and "L-Spine 5-level.stl".
+Final printable STLs exported from openscad: "3_lvl_spine.stl" and "5_lvl_spine.stl".
