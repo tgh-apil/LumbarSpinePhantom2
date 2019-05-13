@@ -1,4 +1,4 @@
-# Lumbar Spine Phantom
+# Lumbar Spine Phantom Version 2
 Printable Lumbar Spine Phantom for Procedural Training of Neuraxial Anesthesia
 
 Models are based on the Mechanix DICOM dataset from Osirix (Educational Use Only): http://www.osirix-viewer.com/datasets/DATA/MECANIX.zip
